@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ed0d900-c18e-4622-96c3-474ed47b05df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/Java/Java/folder1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/file1.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/Java/Java/file1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/file2.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/Java/Java/file2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/file3.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/Java/Java/file3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/Java/Java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/file1.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/Java/Java/folder1/file1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/file2.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/Java/Java/folder1/file2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/file3.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/Java/Java/folder1/file3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/folder1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/Java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/folder1/file1.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/Java/file1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/folder1/file2.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/Java/file2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/folder1/file3.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/Java/file3.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iuLMnzyrhezb8gzNMWYIAslBGk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ed0d900-c18e-4622-96c3-474ed47b05df" name="Default Changelist" comment="" />
+      <created>1602752486780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602752486780</updated>
+      <workItem from="1602752488425" duration="695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
